@@ -1,0 +1,7 @@
+{
+  "name": "workout-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
